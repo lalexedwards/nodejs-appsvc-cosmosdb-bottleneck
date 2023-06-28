@@ -11,7 +11,7 @@ pool:
 
 variables:
   webAppName: 'SampleApp'
-  serviceConnection: '<Name of your webARM Service connection>'
+  serviceConnection: 'AzureLoadTestingRepros'
   azureSubscriptionId: '7d95e13f-b4ff-4faf-968f-9d00a305d316'
   loadTestResource: 'repro3648'
   loadTestResourceGroup: 'LoadTesting'
